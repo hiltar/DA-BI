@@ -28,7 +28,7 @@ The tasks and the evaluation:
 **3.	Document the subject and aim of your data analysis project. (0,0 or 0, 25)**
 
 
-**4.	Select one regression analysis or one decision tree tutorial from the Net. It must be one that utilizes at least one of the Python’s data analysis or data manipulation libraries.**
+~~4.	Select one regression analysis or one decision tree tutorial from the Net. It must be one that utilizes at least one of the Python’s data analysis or data manipulation libraries.~~
 
 
 **5.	Program the tutorial and evaluate the results. (0,0 or 0, 5)**
