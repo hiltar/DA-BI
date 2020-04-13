@@ -25,7 +25,8 @@ The tasks and the evaluation:
 ~~2.	Get a data set that you can use for prediction or classification. You can select one of the datasets available on the Net. You can also use data that is your own.~~
 
 
-**3.	Document the subject and aim of your data analysis project. (0,0 or 0, 25)**
+~~3.	Document the subject and aim of your data analysis project. (0,0 
+or 0, 25)~~
 
 
 ~~4.	Select one regression analysis or one decision tree tutorial from the Net. It must be one that utilizes at least one of the Python’s data analysis or data manipulation libraries.~~
