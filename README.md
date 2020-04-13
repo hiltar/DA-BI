@@ -19,10 +19,10 @@ Return the report into the Optima return box no later than **Sun 19 April 2020 a
 The tasks and the evaluation:
 
 
-**~~1.	Decide what you are going to do: 1) Predict or forecast a value of a numerical value or 2) classify data to two or more categorical classes.
+~~1.	Decide what you are going to do: 1) Predict or forecast a value of a numerical value or 2) classify data to two or more categorical classes.~~
 
 
-**~~2.	Get a data set that you can use for prediction or classification. You can select one of the datasets available on the Net. You can also use data that is your own.**
+~~2.	Get a data set that you can use for prediction or classification. You can select one of the datasets available on the Net. You can also use data that is your own.~~
 
 
 **3.	Document the subject and aim of your data analysis project. (0,0 or 0, 25)**
