@@ -2,7 +2,8 @@
 from sklearn.linear_model import LinearRegression
 
 #Simple Linear Regression With scikit-learn
-
+print('#Simple Linear Regression With scikit-learn')
+print()
 x = np.array([5, 15, 25, 35, 45, 55]).reshape((-1, 1))
 y = np.array([5, 20, 14, 32, 22, 38])
 
@@ -36,7 +37,10 @@ y_pred = model.predict(x)
 print('--------------------------')
 
 print('predicted response:', y_pred, sep='\n')
+print()
 
 #Multiple Linear Regression With scikit-learn
+print('#Multiple Linear Regression With scikit-learn')
+print()
 
 
