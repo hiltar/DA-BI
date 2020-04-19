@@ -32,7 +32,7 @@ or 0, 25)~~
 ~~4.	Select one regression analysis or one decision tree tutorial from the Net. It must be one that utilizes at least one of the Python’s data analysis or data manipulation libraries.~~
 
 
-**5.	Program the tutorial and evaluate the results. (0,0 or 0, 5)**
+~~5.	Program the tutorial and evaluate the results. (0,0 or 0, 5)~~
 
 
 **6.	Describe and prepare the dataset you selected for analysis. (0,0 or 0,25)**
